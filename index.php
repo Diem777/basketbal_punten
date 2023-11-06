@@ -8,7 +8,7 @@
 </head>
 <body>
  
-    <a href="login.html"><button class="login">Login</button></a>
-    <a href="signup.html"><button class="login">Signup</button></a>
+    <a href="login.php"><button class="login">Login</button></a>
+    <a href="signup.php"><button class="login">Signup</button></a>
 </body>
 </html>
