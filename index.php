@@ -9,6 +9,6 @@
 <body>
  
     <a href="login.php"><button class="login">Login</button></a>
-    <a href="signup.php"><button class="login">Signup</button></a>
+    <a href="registration.php"><button class="login">Signup</button></a>
 </body>
 </html>

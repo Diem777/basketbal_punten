@@ -12,17 +12,23 @@
                 <input type="text" name="voornaam" placeholder="Voornaam">
             </div>
             <div class="form-group">
-                <input type="text" name="voornaam" placeholder="Voornaam">
+                <input type="text" name="achternaam," placeholder="Achternaam">
             </div>
             <div class="form-group">
-                <input type="email" name="E-mail" placeholder="E-mail">
+                <input type="email" name="email" placeholder="E-mail">
             </div>
             <div class="form-group">
-                <input type="text" name="voornaam" placeholder="Voornaam">
+                <input type="password" name="herhaal_wachtwoord" placeholder="Wachtwoord">
             </div>
             <div class="form-group">
-                <input type="text" name="voornaam" placeholder="Voornaam">
+                <input type="password" name="herhaal_wachtwoord" placeholder="Herhaal wachtwoord">
             </div>
+            <div class="form-group">
+                <input type="submit" value="registration" name="submit">
+            </div>
+</form>
 </div>
+
+
 </body>
 </html>
